@@ -17,4 +17,4 @@
 - [Sitch](https://github.com/sam0uly/sitch): A grid based and blazingly fast system information fetch CLI.
 - Soon `Mural`: A wallpaper engine (daemon) and TUI wallpaper manager/viewer!
 
-***You can find more about me [here](https://samouly.fun)
+***You can find more about me [here](https://samouly.fun).***
