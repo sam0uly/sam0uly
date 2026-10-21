@@ -5,7 +5,7 @@
 
 # Things I do:
 - Full-stack web applications with Go, Bun/NodeJS and Nuxt (formerly React/Next)
-- CLI/TUI tools using Go and [@charmbracelet](https://github.com/charmbracelet) ecosystem
+- CLI/TUI tools using Go and [Charm](https://github.com/charmbracelet) ecosystem
 - Mastering DSA on Go
 - Building Discord bots with Go and JavaScript
 - I use NixOS <3
