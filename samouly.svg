@@ -10,7 +10,7 @@
       }
     ]]></style>
   </defs>
-  <text x="360" y="58" text-anchor="middle" dominant-baseline="middle"
+  <text x="360" y="58" text-anchor="end" dominant-baseline="middle"
         font-family="Comic Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
         font-size="32" fill="#c9d1d9">Hi, I'm Alaa El-Samouly</text>
 </svg>
