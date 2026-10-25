@@ -11,6 +11,8 @@
 - Building Discord bots with Go and JavaScript
 - I use NixOS <3
 
+And i use [SamoulyVim](https://github.com/sam0uly/SamoulyVim) BTW, its my custom lazyvim config!
+
 ## Noted projects:
 - [Spin](https://github.com/sam0uly/spin): A universal project scaffolder.
 - [Bub](https://github.com/sam0uly/bubbleMonitor): A glamourous tui system monitor.
