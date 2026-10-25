@@ -1,0 +1,20 @@
+<svg xmlns="http://w3.org" width="450" height="60" viewBox="0 0 450 60">
+  <defs>
+    <style>
+      @import url('https://jsdelivr.net');
+      .comic-text {
+        font-family: 'Comic Mono', monospace;
+        font-size: 24px;
+        font-weight: bold;
+        fill: #24292f; /* GitHub light mode text color */
+      }
+      @media (prefers-color-scheme: dark) {
+        .comic-text {
+          fill: #c9d1d9; /* GitHub dark mode text color */
+        }
+      }
+    </style>
+  </defs>
+  <!-- Text rendering with Comic Mono and standard waving hand emoji -->
+  <text x="10" y="38" class="comic-text">Hi, I'm Alaa El-Samouly 👋</text>
+</svg>
