@@ -14,8 +14,8 @@
 And i use [SamoulyVim](https://github.com/sam0uly/SamoulyVim) BTW, its my custom lazyvim config!
 
 ## What i'm working on currently:
-- [Hyper](https://hyper.charm.land) AI Inference By charm
-- [Crush](https://github.com/charmbracelet/crush) AI Agent
+- [Hyper](https://hyper.charm.land) AI Inference By Charm
+- [Crush](https://github.com/charmbracelet/crush) The glamorous AI Agent By Charm
 - Some secret stuff will come soon feat. charm. 😉
 
 ## Noted projects:
