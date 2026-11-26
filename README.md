@@ -1,29 +1,34 @@
 ![Hi, I'm Alaa El-Samouly](./samouly.svg)
 
-<!-- <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px"> -->
+> I build software for people who feel at home in a terminal.
+>
+> Currently building at [Charm](https://charm.land) — and, yes, a little obsessed.
 
-**Obsessed and Working at [Charm](https://charm.land)** 
+## My usual habitat
 
-# Things I do:
-- Full-stack web applications with Go, Bun/NodeJS and Nuxt (formerly React/Next)
-- CLI/TUI tools using Go and [Charm](https://github.com/charmbracelet) ecosystem
-- Mastering DSA on Go
-- Building Discord bots with Go and JavaScript (not doing that currently :D)
-- I use NixOS BTW <3
+- **Go** for full-stack apps, CLI/TUI tools, and sharpening my DSA skills.
+- **Bun / Node.js + Nuxt** for the web (formerly React / Next.js).
+- The **[Charm ecosystem](https://github.com/charmbracelet)** for making terminals feel a little more glamorous.
+- **NixOS**, because apparently configuring my computer is also a hobby.
+- **[SamoulyVim](https://github.com/sam0uly/SamoulyVim)** — my custom LazyVim setup, tuned to my own peculiarities.
 
-And i use [SamoulyVim](https://github.com/sam0uly/SamoulyVim) BTW, its my custom lazyvim config!
+Discord bots in Go and JavaScript? Been there. On pause for now. :)
 
-## What i'm working on currently:
-- [Hyper](https://hyper.charm.land) AI Inference By Charm
-- [Crush](https://github.com/charmbracelet/crush) The glamorous AI Agent By Charm
-- Some secret stuff will come soon feat. charm. 😉
+## On my workbench
 
-## Noted projects:
-- [Twig](https://github.com/sam0uly/twig): Live diff viewer for you and your AI agent that don't die on working trees bigger than your screen xD
-- [Spin](https://github.com/sam0uly/spin): A universal project scaffolder, templates registry engine, and template engine.
-- [Bub](https://github.com/sam0uly/bubbleMonitor): A glamorous TUI system monitor.
-- [Mditor](https://github.com/sam0uly/mditor): A terminal markdown editor, obsidian compatible.
-- [Sitch](https://github.com/sam0uly/sitch): A grid based and blazingly fast system information fetch CLI.
-- Soon `Mural`: A wallpaper engine (daemon) and TUI wallpaper manager/viewer!
+- **[Hyper](https://hyper.charm.land)** — AI inference by Charm.
+- **[Crush](https://github.com/charmbracelet/crush)** — the glamorous AI agent by Charm.
+- **A few things I can’t talk about yet** — keep an eye out. 😉
 
-***You can find more about me [here](https://samouly.fun).***
+## Things I’ve put into the world
+
+- **[Twig](https://github.com/sam0uly/twig)** — a live diff viewer for you and your AI agent; built for working trees bigger than your screen.
+- **[Spin](https://github.com/sam0uly/spin)** — a universal project scaffolder, template registry, and template engine.
+- **[Bub](https://github.com/sam0uly/bubbleMonitor)** — a glamorous TUI system monitor.
+- **[Mditor](https://github.com/sam0uly/mditor)** — a terminal Markdown editor with Obsidian compatibility.
+- **[Sitch](https://github.com/sam0uly/sitch)** — a grid-based, blazingly fast system information CLI.
+- **Mural** *(coming soon)* — a wallpaper daemon and a TUI manager/viewer. Because even your desktop deserves a good interface.
+
+---
+
+More about me, beyond the terminal: **[samouly.fun](https://samouly.fun)**
